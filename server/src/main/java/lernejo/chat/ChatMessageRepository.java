@@ -1,6 +1,7 @@
-package fr.lernejo.chat;
+package lernejo.chat;
 import java.util.ArrayList;
 import java.util.List;
+
 public class ChatMessageRepository {
     List<String> list;
     public ChatMessageRepository() {

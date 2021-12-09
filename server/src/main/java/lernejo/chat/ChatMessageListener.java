@@ -1,4 +1,4 @@
-package fr.lernejo.chat;
+package lernejo.chat;
 
 import org.springframework.stereotype.Component;
 
